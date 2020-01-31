@@ -12,6 +12,7 @@ Oribi Analytics
 
 # Permissions
 set permissions for var/ generated/ pub/static/ directoy 777 recurcively.
+
 Command : chmod 777 var/* generated/* pub/static/* -R
 
 # After Installation

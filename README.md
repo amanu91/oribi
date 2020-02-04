@@ -7,7 +7,7 @@ Oribi Analytics
 # Commands
 1. php bin/magento setup:upgrade
 2. php bin/magento setup:di:compile
-3. php bin/magento setup:static-content:deploy (if this command not excuted add -f at the end)
+3. php bin/magento setup:static-content:deploy (if this command not executed add -f at the end)
 4. php bin/magento c:f
 
 # Permissions
